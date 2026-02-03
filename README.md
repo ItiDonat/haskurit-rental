@@ -1,0 +1,1 @@
+# haskurit-rental
