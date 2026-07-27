@@ -24,3 +24,5 @@ Live and in active use by the client.
 ## Repository Note
 This repository is a **public showcase repository** created for presentation purposes only.  
 The production code is maintained in a private repository.
+
+Source code access is available upon request for recruiters, hiring managers, or other authorized reviewers.
