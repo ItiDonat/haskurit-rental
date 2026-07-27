@@ -15,7 +15,8 @@ Full responsibility for the project – working directly with the client, defini
 ## Technologies
 - React  
 - Node.js  
-- TailwindCSS  
+- TailwindCSS
+- MongoDB
 
 ## Status
 Live and in active use by the client.
